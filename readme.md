@@ -1,4 +1,4 @@
-# Intervew Template
+# Interview Template
 
 ## Setup
 
